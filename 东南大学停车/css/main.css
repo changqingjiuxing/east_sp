@@ -1,0 +1,18 @@
+#singIn {
+    background-image: url(../i/bg.png);
+    background-size: 100%;
+}
+#singIn .am-btn-default {
+    background-color: #91dc5a;
+}
+#singIn img {
+    margin: 0 auto;
+}
+#singIn .am-form input[type=text], #singIn .am-form-field {
+    background-color: rgba(255, 255, 255, 0.3);
+    color: #91dc5a;
+}
+#singIn .checkbox {
+    color: #ccc;
+}
+
